@@ -144,6 +144,7 @@
     <ClInclude Include="File.hpp" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="внутренности директорий.png" />
     <Image Include="Пример Работы.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
